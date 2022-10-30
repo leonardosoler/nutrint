@@ -1,7 +1,7 @@
 function Home () {
     return (
         <div className="app">
-            <h1>AQUIIIIIIIIIIIIIIIII</h1>
+            <h1>AQUIIIIIIIIIIIIIIIIII</h1>
         </div>
     )
 }
